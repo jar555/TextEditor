@@ -10,7 +10,7 @@ Scrollbar size
 
 Undo and Redo is buggy
 
-New lines start with an extra space
+New lines without using enter start with an extra space
 
 Words don't wrap with window resizing
 
