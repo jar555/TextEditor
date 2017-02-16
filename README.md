@@ -2,7 +2,7 @@
 A very basic text editor
 
 #To Use
-java editor.Editor <Insert file name>
+java editor.Editor "Insert file name"
 
 #Bugs
 
