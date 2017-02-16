@@ -1,4 +1,4 @@
-# TextEditor
+# Text Editor
 A very basic text editor
 
 #To Use
